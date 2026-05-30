@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervtringify",
+        "uuid": 15104380,
+        "checksum": "ohithh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
